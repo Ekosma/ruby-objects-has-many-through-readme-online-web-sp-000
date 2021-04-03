@@ -30,4 +30,3 @@ class Meal
     best_tipped_meal.customer
   end
 end
-end
